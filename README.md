@@ -16,6 +16,7 @@ This is a simple curriculum website built using only HTML. The design showcases 
 ## How to View the Website
 
 To view the website, simply open the `index.html` file in any web browser.
-
+##Url
+https://roadmap.sh/projects/single-page-cv
 
 
